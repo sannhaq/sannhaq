@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **laravel, django**
 
-- 👯 I’m looking to collaborate on **back-end development and web applications.**
+- 👯 I’m looking to collaborate on **back-end development**
 
 - 💬 Ask me about **express**
 
